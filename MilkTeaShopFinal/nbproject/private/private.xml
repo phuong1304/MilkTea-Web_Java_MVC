@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/DAOAccount/Tools.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerAccount/AccountManagementController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerProduct/DeleteProductController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerOrder/ShowOrderController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerCart/AddToCartController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerProduct/ProductController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/Model/Cart.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/orderList.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerProduct/AddProductController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerCart/DeleteCartController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerProduct/UpdateProductController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/lib/DBUtils.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerCart/UpdateCartController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/accountManagement.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerCart/BuyController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerAccount/CreateUserController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerAccount/DeleteAccountController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/DAOProduct/ToolProduct.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/cart.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerAccount/LoginController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerCart/ShowCartController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/index.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerAccount/UpdateController.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/DAOOrder/OrderTool.java</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/createUser.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/web/productManagement.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/PRJ/PRJ%20BL3W%20Hoang%20Thien/MilkTeaShopFinal/src/java/controllerAccount/LogoutController.java</file>
+        </group>
+    </open-files>
+</project-private>
